@@ -10,7 +10,7 @@ This was my first project and first experience with Python. I used the turtle fe
     ben.right(90)
     ben.stamp()
     
-It was interesting playing around with the turtle feature and seeing how I could manipulate it to make a picture. 
+It was interesting playing around with the turtle features and seeing the different ways I could manipulate it to make a picture. 
 
 ### Tree Project
 
@@ -63,8 +63,15 @@ while 1:
         
 
 
-### How have I organized my portfolio and why is it in this order?
+### Questions regarding the layout of my Unit 1 Page...
 
+I organized it in chronological order, using the projects that I found to be the most interesting to me. 
+What piece are you most proud of?
+What make this your best piece?
+How did you go about creating it?
+Which one was the hardest?
+What piece would you most like to improve?
+Do you feel this collection of work reflects your abilities? Why or why not?
 
 ### Link to About Me Page
 https://bkebede.github.io/
