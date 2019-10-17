@@ -64,3 +64,7 @@ while 1:
 
 
 ### How have I organized my portfolio and why is it in this order?
+
+
+### Link to About Me Page
+https://bkebede.github.io/
