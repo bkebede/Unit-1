@@ -88,8 +88,11 @@ This project was an exercise with lists and functions, as the goal was to write 
 ### Questions regarding the layout of my Unit 1 Page...
 
 I organized it in chronological order, using the projects that I found to be the most interesting to me. 
+
 What piece are you most proud of?
+
 What make this your best piece?
+
 How did you go about creating it?
 Which one was the hardest?
 What piece would you most like to improve?
