@@ -135,5 +135,10 @@ My best was the Rock, Paper, Scissors piece and I had to map it out on paper fir
 
 The Encryption project was the hardest one for me as I had trouble figuring out finding the key as well as finding a way to print out multiple rotations.  
 
+### Links to Projects 
+<https://github.com/bkebede/Unit-1/blob/master/ATBS%20Functions%20Practice(1).docx>
+
+
+
 ### Link to About Me Page
 <https://bkebede.github.io/>
