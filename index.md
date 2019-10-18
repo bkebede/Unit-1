@@ -138,15 +138,15 @@ The Encryption project was the hardest one for me as I had trouble figuring out 
 ### Links to Projects 
 [Hello Turtle](https://github.com/bkebede/Unit-1/blob/master/Turtle-2.py)
 
-[Trees](https://github.com/bkebede/Unit-1/blob/master/Trees(1).py)
+[How Many Trees?](https://github.com/bkebede/Unit-1/blob/master/Trees(1).py)
 
-[Password](https://github.com/bkebede/Unit-1/blob/master/pw.py)
+[Password Generator](https://github.com/bkebede/Unit-1/blob/master/pw.py)
 
 [Rock, Paper, Scissors](https://github.com/bkebede/Unit-1/blob/master/rps.py)
 
 [Character Picture Grid](https://github.com/bkebede/Unit-1/blob/master/Character%20picture%20grid.py)
 
-[Collatz](https://github.com/bkebede/Unit-1/blob/master/Collatz.py)
+[Collatz Sequence](https://github.com/bkebede/Unit-1/blob/master/Collatz.py)
 
 [Comma Code](https://github.com/bkebede/Unit-1/blob/master/comma%20code.py)
 
@@ -158,12 +158,4 @@ The Encryption project was the hardest one for me as I had trouble figuring out 
 
 
 
-
-
-
-
-
-
-
-### Link to About Me Page
-<https://bkebede.github.io/>
+### Link to  [About Me Page](https://bkebede.github.io/)
