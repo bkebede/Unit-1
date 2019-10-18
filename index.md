@@ -136,16 +136,30 @@ My best was the Rock, Paper, Scissors piece and I had to map it out on paper fir
 The Encryption project was the hardest one for me as I had trouble figuring out finding the key as well as finding a way to print out multiple rotations.  
 
 ### Links to Projects 
-[Function Practice](https://github.com/bkebede/Unit-1/blob/master/ATBS%20Functions%20Practice(1).docx)
+[Hello Turtle](https://github.com/bkebede/Unit-1/blob/master/Turtle-2.py)
+
 [Basic Practice #1](https://github.com/bkebede/Unit-1/blob/master/Basic%20Practice%20%231.py)
+
 [Basic Practice #2](https://github.com/bkebede/Unit-1/blob/master/Basic%20Practice%20%232.py)
+
 [Basic Practice #3](https://github.com/bkebede/Unit-1/blob/master/Basic%20Practice%20%233.py)
-[Character Picture Grid](https://github.com/bkebede/Unit-1/blob/master/Character%20picture%20grid.py)
-[Collatz](https://github.com/bkebede/Unit-1/blob/master/Collatz.py)
+
 [Trees](https://github.com/bkebede/Unit-1/blob/master/Trees(1).py)
-[Comma Code](https://github.com/bkebede/Unit-1/blob/master/comma%20code.py)
-[Password](https://github.com/bkebede/Unit-1/blob/master/pw.py)
+
 [Rock, Paper, Scissors](https://github.com/bkebede/Unit-1/blob/master/rps.py)
+
+[Character Picture Grid](https://github.com/bkebede/Unit-1/blob/master/Character%20picture%20grid.py)
+
+[Collatz](https://github.com/bkebede/Unit-1/blob/master/Collatz.py)
+
+[Comma Code](https://github.com/bkebede/Unit-1/blob/master/comma%20code.py)
+
+[Function Practice](https://github.com/bkebede/Unit-1/blob/master/ATBS%20Functions%20Practice(1).docx)
+
+[Password](https://github.com/bkebede/Unit-1/blob/master/pw.py)
+
+
+
 
 
 
