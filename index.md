@@ -16,8 +16,7 @@ It was interesting playing around with the turtle features and seeing the differ
 
 This project was more interactive than the previous Turtle project, because it was intended to prompt a user to answer questions. 
 
-Using extrapolation of a small area, I found a rough estimate of how many trees are in Sacramento and then prompted the user to do the same thing. At the end, I compared the user's result to mine. 
-
+Using extrapolation of an area of 300 square feet, I found a rough estimate of how many trees are in Sacramento and then prompted the user to do the same thing. At the end of the program, I provide the user a comparison of their results to the one I found. 
 
     tree = input("How many trees did you spot in 300 square feet? ") #Prompt user to write how many trees spotted over 300 square feet
     tree = int(tree) #Assign integer value to trees
@@ -28,7 +27,7 @@ Using extrapolation of a small area, I found a rough estimate of how many trees 
 
 ### Rock, Paper, Scissors 
 
-This was a fun project too as it was interactive and created a game simulating the classic rock, paper, scissiors. These types of projects are my favorite as you can use it to play a game and see how your work delivers some sort of end project that is usable. 
+This was a fun project too as it was interactive and created a game simulating the classic rock, paper, scissiors. These types of projects are my favorite as you can use it to play a game and see how your work delivers some sort of end project that is usable. Using if and else if statements were critical in completing this program, because there are many different paths and options that can be taken in this game. 
 
 while 1:
     print("Let's play rock, paper, scissors.")
@@ -61,7 +60,30 @@ while 1:
     else:
         print("Invalid input.")
         
+### Collatz
 
+With this project, I learned 'try and except', which seems like a very useful tool for future tasks. The try block allows me to test for errors while the except block allows me to handle that error. In the code excerpt below, I prompted the user to enter a number, but in the case that the user writes something that isn't an integer, I have a message that pops up saying that the wrong type of value was entered. This allows the program to not crash and continue running until the user does enter the correct type of value. 
+
+try:
+    my_number = int(input('Please Enter A Number: '))
+except ValueError:
+    print('Error: Invalid value, enter an integer')
+    exit()
+    
+### Comma Code
+
+This project was an exercise with lists and functions, as the goal was to write a function that separated the values in the list with a comma, a space as well as "and" in between the values. Learning function is an important task as functions simplify coding as they're blocks of code that have a high degree of reusability and provide better modularity for your application. Lttle tools like [-1] look at 
+
+spam = ['cats', 'dogs', 'fish', 'pigs']
+
+def list(spam):
+    spam[-1] = 'and ' + spam[-1]
+    mods = ''
+    for i in spam:
+        mods += i + ',' + ' '
+    print("'" + mods[:-2] + "'.")
+
+list(spam)
 
 ### Questions regarding the layout of my Unit 1 Page...
 
