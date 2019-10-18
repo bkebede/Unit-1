@@ -135,7 +135,8 @@ My best was the Rock, Paper, Scissors piece and I had to map it out on paper fir
 
 The Encryption project was the hardest one for me as I had trouble figuring out finding the key as well as finding a way to print out multiple rotations.  
 
-### Links to Projects 
+### Projects](https://github.com/bkebede/Unit-1)
+
 [Hello Turtle](https://github.com/bkebede/Unit-1/blob/master/Turtle-2.py)
 
 [How Many Trees?](https://github.com/bkebede/Unit-1/blob/master/Trees(1).py)
@@ -158,4 +159,4 @@ The Encryption project was the hardest one for me as I had trouble figuring out 
 
 
 
-### Link to  [About Me Page](https://bkebede.github.io/)
+### [About Me Page](https://bkebede.github.io/)
