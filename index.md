@@ -87,16 +87,21 @@ This project was an exercise with lists and functions, as the goal was to write 
 
 ### Questions regarding the layout of my Unit 1 Page...
 
+Why is it organized in the way it is?
 I organized it in chronological order, using the projects that I found to be the most interesting to me. 
 
 What piece are you most proud of?
+The Turtle project stands out because it was my first experience with Python. I also really enjoyed creating the Rock, Paper, Scissors game, because the end product felt really rewarding. 
 
-What make this your best piece?
+What's your best piece and how did you go about creating it?
 
-How did you go about creating it?
+My best was the Rock, Paper, Scissors piece and I had to map it out on paper first because there were so many different path routes in the game. So to ensure that all those options were noted but also in an organized manner, mapping it out on paper was key. 
+
 Which one was the hardest?
+The Encryption project was the hardest one for me as I had trouble figuring out the 
+
 What piece would you most like to improve?
-Do you feel this collection of work reflects your abilities? Why or why not?
+
 
 ### Link to About Me Page
 https://bkebede.github.io/
