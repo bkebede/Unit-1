@@ -138,13 +138,9 @@ The Encryption project was the hardest one for me as I had trouble figuring out 
 ### Links to Projects 
 [Hello Turtle](https://github.com/bkebede/Unit-1/blob/master/Turtle-2.py)
 
-[Basic Practice #1](https://github.com/bkebede/Unit-1/blob/master/Basic%20Practice%20%231.py)
-
-[Basic Practice #2](https://github.com/bkebede/Unit-1/blob/master/Basic%20Practice%20%232.py)
-
-[Basic Practice #3](https://github.com/bkebede/Unit-1/blob/master/Basic%20Practice%20%233.py)
-
 [Trees](https://github.com/bkebede/Unit-1/blob/master/Trees(1).py)
+
+[Password](https://github.com/bkebede/Unit-1/blob/master/pw.py)
 
 [Rock, Paper, Scissors](https://github.com/bkebede/Unit-1/blob/master/rps.py)
 
@@ -154,9 +150,15 @@ The Encryption project was the hardest one for me as I had trouble figuring out 
 
 [Comma Code](https://github.com/bkebede/Unit-1/blob/master/comma%20code.py)
 
-[Function Practice](https://github.com/bkebede/Unit-1/blob/master/ATBS%20Functions%20Practice(1).docx)
+[Encryption](https://github.com/bkebede/Unit-1/blob/master/Encryption.py)
 
-[Password](https://github.com/bkebede/Unit-1/blob/master/pw.py)
+[Favorite Number Part 1](https://github.com/bkebede/Unit-1/blob/master/write(1).py)
+
+[Favorite Number Part 2](https://github.com/bkebede/Unit-1/blob/master/read(1).py)
+
+
+
+
 
 
 
