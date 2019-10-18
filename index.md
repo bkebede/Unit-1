@@ -132,6 +132,7 @@ The Turtle project stands out because it was my first experience with Python. I 
 My best was the Rock, Paper, Scissors piece and I had to map it out on paper first because there were so many different path routes in the game. So to ensure that all those options were noted but also in an organized manner, mapping it out on paper was key. 
 
 **Which one was the hardest?**
+
 The Encryption project was the hardest one for me as I had trouble figuring out finding the key as well as finding a way to print out multiple rotations.  
 
 ### Link to About Me Page
