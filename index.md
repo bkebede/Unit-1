@@ -117,7 +117,7 @@ This piece gave me some issues when trying to complete it, as this part of the p
     #print('Key #%s: %s' % (key, translated))
     print(key, encoded)
     
-### Questions regarding my Unit 1 Page...
+### Questions regarding Unit 1...
 
 **Why is it organized in the way it is?**
 
@@ -131,11 +131,15 @@ The Turtle project stands out because it was my first experience with Python. I 
 
 My best was the Rock, Paper, Scissors piece and I had to map it out on paper first because there were so many different path routes in the game. So to ensure that all those options were noted but also in an organized manner, mapping it out on paper was key. 
 
-**Which one was the hardest?**
+**Which one was the hardest, how did you go about problems?**
 
-The Encryption project was the hardest one for me as I had trouble figuring out finding the key as well as finding a way to print out multiple rotations.  
+The Encryption project was the hardest one for me as I had trouble figuring out finding the key as well as finding a way to print out multiple rotations.  I had to research a lot when it came to this project, because I was not familiar with all the functions and methods that could be used to get the program to work. Fortunately, there are a lot of resources but learning about string formatting and the use of range() was helpful with all this. 
 
-### Projects](https://github.com/bkebede/Unit-1)
+**How did I do with my initial goals?**
+
+I feel like my main goal was obviously to learn the basics of what programming is but one particular one was to not get too frustrated with the learning curve. I think I did alright, but I definitely could've done better. At times, it was a challenge understanding everything because there is so much to learn. There are so many different functions, rules, and such which all are pieced to gether, so if one is missed, it's hard to catch back up. It's similiar to math in that way. I hope to do better in this regard though as I go on with the semester. 
+
+### [Projects](https://github.com/bkebede/Unit-1)
 
 [Hello Turtle](https://github.com/bkebede/Unit-1/blob/master/Turtle-2.py)
 
