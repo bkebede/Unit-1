@@ -85,6 +85,38 @@ This project was an exercise with lists and functions, as the goal was to write 
 
     list(spam)
 
+### Encryption Project 
+This piece gave me some issues when trying to complete it, as this part of the project did as well. The goal was to decode ciphertext and print out all 25 rotations. Using range() allowed me to loop through every possible key. Later, we looped through every symbol in the ciphertext string in message, while symbol checks if it is an uppercase letter while find() locates where the symbol is in letters and stores it in a vairable called num. Because this was a decryption, I subtracted the key which may cause num to be 0, so wrap arounds were put in place. String formatting was used for the 2nd last line "%s" places one string inside another one. The first %s text in the string gets replaced by the first value in the parentheses after the % at the end of the string.
+
+    message = 'dzeevjfkrlezkvuwffksrcctcls'
+    letters = 'abcdefghijklmnopqrstuvwxyz'
+
+
+    for key in range(len(letters)):
+
+ 
+    encoded = ''
+
+    for symbol in message:
+        if symbol in letters:
+            num = letters.find(symbol) 
+            num = num - key
+
+            # handle the wrap-around if num is 26 or larger or less than 0
+            if num < 0:
+                num = num + len(letters)
+
+            # add number's symbol at the end of translated
+            encoded = encoded + letters[num]
+
+        else:
+            # just add the symbol without encrypting/decrypting
+            encoded = encoded + symbol
+
+    # display the current key being tested, along with its decryption
+    #print('Key #%s: %s' % (key, translated))
+    print(key, encoded)
+    
 ### Questions regarding the layout of my Unit 1 Page...
 
 Why is it organized in the way it is?
@@ -104,4 +136,4 @@ What piece would you most like to improve?
 
 
 ### Link to About Me Page
-https://bkebede.github.io/
+[https://bkebede.github.io/]
