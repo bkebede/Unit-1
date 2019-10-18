@@ -64,26 +64,26 @@ while 1:
 
 With this project, I learned 'try and except', which seems like a very useful tool for future tasks. The try block allows me to test for errors while the except block allows me to handle that error. In the code excerpt below, I prompted the user to enter a number, but in the case that the user writes something that isn't an integer, I have a message that pops up saying that the wrong type of value was entered. This allows the program to not crash and continue running until the user does enter the correct type of value. 
 
-try:
-    my_number = int(input('Please Enter A Number: '))
-except ValueError:
-    print('Error: Invalid value, enter an integer')
-    exit()
+    try:
+        my_number = int(input('Please Enter A Number: '))
+    except ValueError:
+        print('Error: Invalid value, enter an integer')
+        exit()
     
 ### Comma Code
 
 This project was an exercise with lists and functions, as the goal was to write a function that separated the values in the list with a comma, a space as well as "and" in between the values. Learning function is an important task as functions simplify coding as they're blocks of code that have a high degree of reusability and provide better modularity for your application. Lttle tools like [-1] look at 
 
-spam = ['cats', 'dogs', 'fish', 'pigs']
+    spam = ['cats', 'dogs', 'fish', 'pigs']
 
-def list(spam):
-    spam[-1] = 'and ' + spam[-1]
-    mods = ''
-    for i in spam:
-        mods += i + ',' + ' '
-    print("'" + mods[:-2] + "'.")
+    def list(spam):
+        spam[-1] = 'and ' + spam[-1]
+        mods = ''
+        for i in spam:
+            mods += i + ',' + ' '
+        print("'" + mods[:-2] + "'.")
 
-list(spam)
+    list(spam)
 
 ### Questions regarding the layout of my Unit 1 Page...
 
